@@ -1,16 +1,39 @@
-### Hi there 👋
+# mafumafuultu
 
-<!--
-**mafumafuultu/mafumafuultu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const mafumafuultu = {
+	name: 'mafumafuultu',
+	github: 'https://github.com/mafumafuultu',
+	comment: 'Basically, use tab indentation.',
+	sns: {
+		mastodon: 'https://qiitadon.com/@mafumafuultu',
+		twitter: 'https://twitter.com/mafumafuultu',
+		qiita: 'https://qiita.com/mafumafuultu',
+	},
+	language: {
+		first: 'japanese',
+		second: 'english',
+	},
+	'programming language': [
+		'JavaScript',
+		'Rust',
+		'Python',
+		'Java',
+	],
+	like: {
+		coffee : {
+			'Costa Rica': ['Black Honey', 'White Honey'],
+			'Indonesia': ['Mandheling'],
+		},
+		editor: [
+			'SublimeText',
+			'VSCodium',
+			'VSCode',
+		]
+	},
+};
+```
 
-Here are some ideas to get you started:
+### Simple tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Color pickup](./colortool.html)
