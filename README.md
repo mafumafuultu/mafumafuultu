@@ -33,7 +33,3 @@ const mafumafuultu = {
 	},
 };
 ```
-
-### Simple tools
-
-[Color pickup](./colortool.html)
